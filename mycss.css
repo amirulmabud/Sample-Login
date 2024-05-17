@@ -1,0 +1,28 @@
+.body_class{
+    /* background-image: url('image/Technology_Trends.avif'); */
+}
+/* 
+.login_text{
+    text-align: center;
+    color: white;
+} */
+
+.form_class{
+    /* right: 20%; */
+    margin-left: 20%;
+    margin-right: 20%;
+    /* left: 30%; */
+    margin-top: 80px;
+    background-color: whitesmoke;
+      /* Add the blur effect */
+      text-align: center;
+      opacity: .8;
+      margin: 10%;
+      padding: 10px;
+
+}
+.login{
+    text-align: center;
+    /* margin-left: 80px; */
+}
+
